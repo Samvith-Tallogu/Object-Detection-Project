@@ -1,0 +1,23 @@
+.heading{
+    font-size: 20px !important;
+}
+
+body{
+    background-size: cover;
+}
+
+.btn-default{
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.btn-danger{
+    float: right;
+    margin-right: 10px;
+}
+
+img{
+    width: 500px;
+    height: 400px;
+    border-radius: 20px;
+}
