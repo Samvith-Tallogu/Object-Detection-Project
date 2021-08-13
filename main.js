@@ -13,7 +13,3 @@ function bottles() {
 function fruits() {
     window.location = "fruitbasket.html";
 }
-
-function back() {
-    window.location = "index.html";
-}
